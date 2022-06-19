@@ -1,0 +1,4 @@
+ID#Kategori#Nama#Harga#Foto
+1#keyboard#Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch#990.000#img1.jpg
+2#Monitor#LG UltraGear™ 24GN600-B 23.8'' FHD IPS Gaming Monitor AMD FreeSync#2.799.000#img2.jpg
+3#gpu#Gigabyte RTX 3090 Ti 4GB DDR6#30.000.000#rtx.png
